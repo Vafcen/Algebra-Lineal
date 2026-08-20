@@ -27,11 +27,11 @@ Instala las dependencias en un entorno virtual (Para no romper otros paquetes na
 
 Linux/MacOS
 ```bash
-python3 -m venv ~/venvs/data && ~/venvs/data/bin/pip install --upgrade pip && ~/venvs/data/bin/pip install numpy sympy pandas matplotlib seaborn scipy jupyter scikit-learn
+python3 -m venv ~/venvs/data && ~/venvs/data/bin/pip install --upgrade pip && ~/venvs/data/bin/pip install numpy jupyter
 ```
 Windows (PowerShell)
 ```bash
-python -m venv $HOME\venvs\data ; & "$HOME\venvs\data\Scripts\pip" install --upgrade pip ; & "$HOME\venvs\data\Scripts\pip" install numpy sympy pandas matplotlib seaborn scipy jupyter scikit-learn
+python -m venv $HOME\venvs\data ; & "$HOME\venvs\data\Scripts\pip" install --upgrade pip ; & "$HOME\venvs\data\Scripts\pip" install numpy jupyter
 ```
 
 ## Paso a paso
