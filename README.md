@@ -17,7 +17,7 @@ Cada laboratorio cuenta con:
 
 Clona el repositorio:
 ```bash
-git clone https://github.com/VincentiusFarenden/Algebra-Lineal.git
+git clone https://github.com/Vafcen/Algebra-Lineal.git
 cd Algebra-Lineal
 ```
 
